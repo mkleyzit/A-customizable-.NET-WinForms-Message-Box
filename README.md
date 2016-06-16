@@ -114,5 +114,5 @@ accommodate your code.<br><br>
 This class inherits the <code>Form</code> class so it is customizable. For 
 instance, you can easily set the <code>MsgBox.Icon</code> property to add an 
 icon in the title bar.<br><br>
-Here is a screenshot of a sample message box:
+A screenshot of a sample message box can be seen in the wiki.
 
