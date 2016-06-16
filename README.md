@@ -1,3 +1,4 @@
+![ScreenShot.png](http://www.stresstimulus.com/image/CustomMessageBox.png)
 <h2>Introduction</h2>
 
 When I do .NET WinForms programming, I often need a message box with 
@@ -113,7 +114,4 @@ Form.ShowDialog()</code> method. Use the proper version of this method to
 accommodate your code.<br><br>
 This class inherits the <code>Form</code> class so it is customizable. For 
 instance, you can easily set the <code>MsgBox.Icon</code> property to add an 
-icon in the title bar.<br><br>
-A screenshot of a sample message box can be seen in the wiki.
-
-![ScreenShot.png](http://www.stresstimulus.com/image/CustomMessageBox.png)
+icon in the title bar.
