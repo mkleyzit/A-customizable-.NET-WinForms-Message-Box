@@ -116,3 +116,4 @@ instance, you can easily set the <code>MsgBox.Icon</code> property to add an
 icon in the title bar.<br><br>
 A screenshot of a sample message box can be seen in the wiki.
 
+![ScreenShot.png](http://www.stresstimulus.com/image/CustomMessageBox.png)
