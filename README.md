@@ -29,7 +29,7 @@ left corner, use one of the two other constructors. You can either provide a
 standard Windows icon using the <code>System.Windows.Forms.MessageBoxIcon</code> enumeration 
 or any custom icon object. You can also get a standard Windows icon object 
 through the <code>System.Drawing.SystemIcons</code> class.<br><br>
-<pre>//Using the MessageBoxIcon enum. 
+<pre>//Using the MessageBoxIcon enum.
 MsgBox db = new MsgBox("This is a test message", 
             "This is a test title", MessageBoxIcon.Information);
 db.ShowDialog(this); //show the message box.
