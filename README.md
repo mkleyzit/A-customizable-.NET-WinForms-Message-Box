@@ -1,4 +1,4 @@
-
+![Screenshot](http://www.stresstimulus.com/image/CustomMessageBox.png)
 <h2>Introduction</h2>
 
 When I do .NET WinForms programming, I often need a message box with 
